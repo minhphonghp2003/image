@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T14:46:20.048Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="V6E-dc0HSU9kO83VzNFm" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-10T14:55:13.396Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aBhaJYcOYZGrUisZf_55" version="20.6.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1446" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="aSBmCTzMzESJpeHtBVLZ-16" value="View transaction" style="ellipse;labelBorderColor=none;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="aSBmCTzMzESJpeHtBVLZ-11">
           <mxGeometry x="490" y="225" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aSBmCTzMzESJpeHtBVLZ-17" value="Send notif" style="ellipse;labelBorderColor=none;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="aSBmCTzMzESJpeHtBVLZ-11">
+        <mxCell id="aSBmCTzMzESJpeHtBVLZ-17" value="Send notif (real time)" style="ellipse;labelBorderColor=none;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="aSBmCTzMzESJpeHtBVLZ-11">
           <mxGeometry x="50" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aSBmCTzMzESJpeHtBVLZ-18" value="Edit price" style="ellipse;labelBorderColor=none;verticalAlign=middle;html=1;whiteSpace=wrap;" vertex="1" parent="aSBmCTzMzESJpeHtBVLZ-11">
