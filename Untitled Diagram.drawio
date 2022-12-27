@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T11:13:19.251Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1vuXsMRuMSUcMxwhR8_y" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T11:14:54.550Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4MVDUlxIr3MdYExKXb6y" version="20.7.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -14,7 +14,7 @@
             <mxPoint x="1570" y="-420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Website link" link="https://preview.colorlib.com/#coffeeblend" linkTarget="_blank" id="TJAAM1Mr-V0eVknTDTIS-45">
+        <UserObject label="Website link" link="https://misbahwp.com/demo/food-delivery-restaurant/" linkTarget="_blank" id="TJAAM1Mr-V0eVknTDTIS-45">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="1720" y="-580" width="140" height="60" as="geometry" />
           </mxCell>
@@ -28,7 +28,7 @@
         <mxCell id="TJAAM1Mr-V0eVknTDTIS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="TJAAM1Mr-V0eVknTDTIS-48" target="TJAAM1Mr-V0eVknTDTIS-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Website link" link="https://davur.dexignzone.com/dashboard/index.html" id="TJAAM1Mr-V0eVknTDTIS-48">
+        <UserObject label="Website link" link="https://fooddesk.dexignlab.com/react/demo/login" id="TJAAM1Mr-V0eVknTDTIS-48">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="910" y="-1040" width="120" height="60" as="geometry" />
           </mxCell>
