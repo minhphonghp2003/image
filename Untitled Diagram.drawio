@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T16:04:38.254Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OlGpOXjlR9h0wKK8rYbb" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T03:43:18.362Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3116mcN5F4VVkuJTSRv1" version="20.8.20" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2234" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -497,7 +497,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SjEbf6vuglEVyHUFfXrL-1" value="address" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="190" width="180" height="150" as="geometry" />
+          <mxGeometry x="230" y="100" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="SjEbf6vuglEVyHUFfXrL-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;" parent="SjEbf6vuglEVyHUFfXrL-1" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -576,7 +576,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hxHDF96I5mAm-jhm-pH0-14" value="customer_address" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="400" width="180" height="120" as="geometry" />
+          <mxGeometry x="670" y="220" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hxHDF96I5mAm-jhm-pH0-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="hxHDF96I5mAm-jhm-pH0-14" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -783,7 +783,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ummdhRIFNz08i_v4GTLM-1" value="favorite" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="30" width="180" height="120" as="geometry" />
+          <mxGeometry x="650" y="385" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ummdhRIFNz08i_v4GTLM-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;" parent="ummdhRIFNz08i_v4GTLM-1" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -835,9 +835,6 @@
             <mxPoint x="1020" y="695" as="sourcePoint" />
             <mxPoint x="880" y="-125" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gZ3czjmZQfXq6mdnDPSE-1" value="products{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;price,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;name,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;images,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;quantity,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;id&lt;br&gt;}&lt;br&gt;&lt;br&gt;customerDetails{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;email&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-150" width="270" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
